@@ -1,0 +1,6 @@
+{
+  "name": "Waliye Brothers",
+  "description": "Waliye Brothers Welfare Society App - Manage monthly funds (chanda), expenses, hisab kitab, and welfare inventory (Deg, Plates, Chairs).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
